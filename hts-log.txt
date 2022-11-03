@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Thu, 03 Nov 2022 21:59:01 at https://sokruta.com.ua/en
+(httrack https://sokruta.com.ua/en )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:01:12	Error: 	"Not Found" (404) at link https://sokruta.com.ua/themes/classic/static/owl.video.play.png (from https://sokruta.com.ua/themes/classic/static/main.css)
+22:01:12	Error: 	"Not Found" (404) at link https://sokruta.com.ua/themes/classic/img/blank.gif (from https://sokruta.com.ua/themes/classic/static/main.css)
+22:11:33	Error: 	"Not Found" (404) at link https://sokruta.com.ua/uploads/thumb/0/projects_plan/562- (from https://sokruta.com.ua/en/projects/details/36)
+22:11:33	Error: 	"Not Found" (404) at link https://sokruta.com.ua/uploads/0/562- (from https://sokruta.com.ua/en/projects/details/36)
+22:11:33	Error: 	"Not Found" (404) at link https://sokruta.com.ua/uploads/thumb/0/projects_plan/477- (from https://sokruta.com.ua/en/projects/details/31)
+22:11:33	Error: 	"Not Found" (404) at link https://sokruta.com.ua/uploads/0/477- (from https://sokruta.com.ua/en/projects/details/31)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 32 seconds : 752 links scanned, 745 files written (165164352 bytes overall) [164086520 bytes received at 218200 bytes/sec], 1842879 bytes transferred using HTTP compression in 122 files, ratio 29%
+(6 errors, 0 warnings, 0 messages)

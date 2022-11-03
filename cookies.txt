@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sokruta.com.ua	TRUE	/	FALSE	1999999999	PHPSESSID	0f604ad25ea87dc5e6e71a544147b258
+sokruta.com.ua	TRUE	/	FALSE	1999999999	YII_CSRF_TOKEN	b7ee476c632ba25bc5e83a8d54bf149d40b49126s%3A40%3A%2292e211dc12f6e4f0876ea45fb1c8bc2fd802b416%22%3B
+
